@@ -1,4 +1,4 @@
-# Ferramenta de atulização de plugins via arquivo .txt do jenkins
+# Ferramenta de atualização de plugins via arquivo .txt do jenkins
 
 Este projeto foi criado para automatizar atualização dos plugins 
 do jenkins via arquivos .txt utilizando [Node.js](https://nodejs.org/en/).

@@ -10,6 +10,6 @@ e este projeto adere a [Semantic Versioning](http://semver.org/).
 ### Fixed
 ### Changed
 
-## [0.1.0] 2021-06-25
+## [0.1.0] 2021-09-19
 ### Added
 - Projeto completo
